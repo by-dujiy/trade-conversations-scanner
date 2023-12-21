@@ -14,3 +14,6 @@ The program scans conversations from time to time and checks for unread messages
 
 ---
 
+## License:
+
+This project is licensed under the MIT License - see the LICENSE file for details
